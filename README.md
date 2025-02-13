@@ -12,13 +12,13 @@
 <!-- Redes Sociales -->
 <p align="center">
   <a href="https://www.linkedin.com/in/carlos-lanzar%C3%A1n-romero-7aa962338/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=shield&logo=linkedIn&logoColor=white">
   </a>
   <a href="https://github.com/CarlosLanzaran" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=shield&logo=github&logoColor=white">
   </a>
-  <a href="clanzaran@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+<a href="mailto:clanzaran@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=shield&logo=gmail&logoColor=white">
   </a>
 </p>
 
@@ -36,34 +36,26 @@
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">Curso Android Básico</h3>
+<h3 align="center">Aplicación para guardar tus listas</h3>
 <div align="center">
-<a href="https://github.com/TU_GITHUB/Android-Basico" target="_blank"><img src="https://i.imgur.com/Jji0CIE.jpg" width="400" alt="Curso básico android"></a>
+<a href="https://github.com/CarlosLanzaran/FilmingApp" target="_blank"><img src="https://imgur.com/y2DkN7x.png" width="400" alt="Aplicación para guardar tus listas"></a>
 <p>
-<a href="https://github.com/TU_GITHUB/Android-Basico" target="_blank">
+<a href="https://github.com/CarlosLanzaran/FilmingApp" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
-</a>
-<a href="https://youtu.be/ENLACE_VIDEO" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
-</a>
 </p>
-<p>Curso gratuito para aprender Android con Kotlin desde cero. No se requiere experiencia previa. <strong>12 horas de contenido gratuito</strong>.</p>
+<p>FilmingApp es una aplicación para Android desarrollada en Android Studio que permite gestionar información sobre películas y series. Su diseño intuitivo y atractivo facilita la navegación y visualización de títulos con sus respectivas imágenes y detalles.</p>
 </div>                                                                                      
 </td>
 
 <td width="50%">
-<h3 align="center">Arquitectura MVVM</h3>
+<h3 align="center">Aplicación para generar personajes</h3>
 <div align="center">                                       
-<a href="https://github.com/TU_GITHUB/MVVM-Architecture" target="_blank"><img src="https://i.imgur.com/7uCBigG.jpg" width="400" alt="Curso arquitectura MVVM"></a>
+<a href="https://github.com/CarlosLanzaran/MyAvatar" target="_blank"><img src="https://imgur.com/zEmoxS5.png" width="400" alt="Curso arquitectura MVVM"></a>
 <p>
-<a href="https://github.com/TU_GITHUB/MVVM-Architecture" target="_blank">
+<a href="https://github.com/CarlosLanzaran/MyAvatar" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
-</a>
-<a href="https://youtu.be/ENLACE_VIDEO" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=3fFD7f">
-</a>
 </p>
-<p>Curso completo sobre la implementación de arquitecturas robustas en Android usando MVVM y Clean Architecture.</p>
+<p>MyAvatar es una aplicación para Android que permite a los usuarios generar personajes de fantasía de manera aleatoria, asignándoles atributos únicos y una imagen representativa. Perfecta para juegos de rol, inspiración en escritura creativa o simplemente para divertirse creando avatares personalizados.</p>
 </div>                                                             
 </td>  
 </tr>
