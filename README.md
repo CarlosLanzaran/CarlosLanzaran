@@ -1,107 +1,84 @@
 <div align="center">
-<h1 align="center">Hola, soy Carlos 👋</h1>
+  <h1 align="center">Hola, soy Carlos 👋</h1>
+  <p>
+    <i>Joven apasionado por la tecnología y la programación, con 20 años y actualmente finalizando mi ciclo formativo en Desarrollo de Aplicaciones Multiplataforma (DAM).</i>
+  </p>
 </div>
-<img src="https://imgur.com/W3FfbZc.png">
 
-[![YouTube Channel Subscribers](https://img.shields.io/badge/Linkedin-FFFFFF)](https://www.linkedin.com/in/carlos-lanzar%C3%A1n-romero-7aa962338/)
-[![Twitch Status](https://img.shields.io/twitch/status/aristidevs?style=social)](https://www.twitch.tv/aristidevs)
-[![GitHub followers](https://img.shields.io/github/followers/arisguimera?style=social)](https://github.com/ArisGuimera)
-![Discord Shield](https://discordapp.com/api/guilds/807719549075980308/widget.png?style=shield)
+<!-- Banner (opcional, reemplázalo con el tuyo si tienes) -->
+<img src="https://imgur.com/W3FfbZc.png" width="800" alt="Banner de Carlos Lanzarán">
 
-## Sobre mi
+<!-- Redes Sociales -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/carlos-lanzar%C3%A1n-romero-7aa962338/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://github.com/TU_GITHUB" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+  <a href="mailto:TUCORREO@ejemplo.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</p>
 
-- ⭐ Github Star ⭐ 
-- 📲 Mobile developer
-- 🎥 Te enseño a programar apps en [Youtube](https://youtube.com/aristidevs?sub_confirmation=1) (+62k subs)
-- ✏️ Y por escrito en [CursoKotlin](https://cursokotlin.com)
-- 📗 Autor del libro [Iniciación a Android en Kotlin. Casos prácticos](https://www.paraninfo.es/catalogo/9788428340922/iniciacion-a-android-en-kotlin--casos-practicos)
-- 🧑‍🏫 Creador de [AppCademy](https://appcademy.dev)
-<br>
+---
 
-## Proyectos *bombitas*
+## 📌 Sobre mí
+
+- 🚀 **Desarrollador de software y apps móviles**  
+- 🎓 **Especialista en Programación y Análisis de Software (UCAM)**  
+- 📱 **Apasionado por Kotlin, Android y tecnologías multiplataforma**  
+- 📚 **Autor del libro** [Iniciación a Android en Kotlin. Casos prácticos](https://www.paraninfo.es/catalogo/9788428340922/iniciacion-a-android-en-kotlin--casos-practicos)  
+- 🎥 **Creador de contenido en** [YouTube](https://youtube.com/aristidevs?sub_confirmation=1)  
+- 🏫 **Fundador de** [AppCademy](https://appcademy.dev)  
+
+---
+
+## 🚀 Proyectos Destacados
+
 <table>
 <tr>
 <td width="50%">
 <h3 align="center">Curso Android Básico</h3>
 <div align="center">
-<a href="https://github.com/ArisGuimera/Android-Expert" target="_blank"><img src="https://i.imgur.com/Jji0CIE.jpg" width="400" alt="Curso básico android"></a>
+<a href="https://github.com/TU_GITHUB/Android-Basico" target="_blank"><img src="https://i.imgur.com/Jji0CIE.jpg" width="400" alt="Curso básico android"></a>
 <p>
-<a href="https://github.com/ArisGuimera/Android-Expert" target="_blank">
+<a href="https://github.com/TU_GITHUB/Android-Basico" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
-<a href="https://youtu.be/vJapzH_46a8" target="_blank">
+<a href="https://youtu.be/ENLACE_VIDEO" target="_blank">
 <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
 </a>
 </p>
-<p>Aprende a programar aplicaciones <strong>Android con Kotlin desde cero</strong> - En este curso aprenderás todo lo necesario ya que no es necesario ningún conocimiento previo. Curso <strong>GRATUITO de 12 horas</strong> con todo el código disponible para descargar.</p>
-</div>
-                                                                                      
+<p>Curso gratuito para aprender Android con Kotlin desde cero. No se requiere experiencia previa. <strong>12 horas de contenido gratuito</strong>.</p>
+</div>                                                                                      
 </td>
 
 <td width="50%">
-               <br>
 <h3 align="center">Arquitectura MVVM</h3>
 <div align="center">                                       
-<a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank"><img src="https://i.imgur.com/7uCBigG.jpg" width="400" alt="Curso arquitectura MVVM"></a>
-<br>
+<a href="https://github.com/TU_GITHUB/MVVM-Architecture" target="_blank"><img src="https://i.imgur.com/7uCBigG.jpg" width="400" alt="Curso arquitectura MVVM"></a>
 <p>
-<a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank">
+<a href="https://github.com/TU_GITHUB/MVVM-Architecture" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
 </a>
-<a href="https://youtu.be/hhhSMXi0R3E" target="_blank">
+<a href="https://youtu.be/ENLACE_VIDEO" target="_blank">
 <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=3fFD7f">
 </a>
 </p>
-</p>Las arquitecturas son <strong>IMPRESCINDIBLES</strong> para poder trabajar como desarrollador/a Android. En este curso, divido por ramas irás aprendiendo a implementar una arquitectura real y robusta con inyección de dependencias, clean architecture, testing y mucho más.</p>
+<p>Curso completo sobre la implementación de arquitecturas robustas en Android usando MVVM y Clean Architecture.</p>
 </div>                                                             
-</table>                                                                                 
-</div>
-<br>
-
-<table>
-<tr>
-<td width="50%">
-<h3 align="center">Curso Android Intermedio</h3>
-<div align="center">
-<a href="https://github.com/ArisGuimera/Android-Expert-Intermedio" target="_blank"><img src="https://i.imgur.com/V48W0sU.jpg" width="400" alt="Curso intermedio Android"></a>
-<p>
-<a href="https://github.com/ArisGuimera/Android-Expert-Intermedio" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
-</a>
-<a href="https://youtu.be/UaR7GSNACsM" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
-</a>
-</p>
-<p>Aprende a programar aplicaciones <strong>Android con Kotlin nivel intermedio</strong> - En este curso nos centraremos en las <strong>buenas prácticas, arquitectura y testing</strong>. Curso <strong>GRATUITO de 8 horas</strong> con todo el código disponible para descargar.</p>
-</div>
-                                                                                      
-</td>       
-
-<td width="50%">
-<h3 align="center">Curso Kotlin Multiplatform</h3>
-<div align="center">
-<a href="https://github.com/ArisGuimera/Curso-Kotlin-Multiplatform" target="_blank"><img src="https://i.imgur.com/nDDp1Ra.jpg" width="400" alt="Curso Kotlin Multiplatform"></a>
-<p>
-<a href="https://github.com/ArisGuimera/Curso-Kotlin-Multiplatform" target="_blank">
-<img src="https://img.shields.io/badge/C%C3%93DIGO-cfaae0?style=for-the-badge&logo=github&logoColor=black">
-</a>
-<a href="https://youtube.com/playlist?list=PL8ie04dqq7_NUvBcMMosVRAbqZDWmRzX3&si=FdS-Z07ZFAUjDHAE" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=ff00f4">
-</a>
-</p>
-<p>Aprende a programar aplicaciones <strong>multiplataform con Kotlin y Jetpack Compose</strong> - En este curso nos centraremos en dominar Kotlin Multiplatform <strong>desde cero</strong>. Curso <strong>GRATUITO</strong> (en desarrollo) con todo el código disponible para descargar.</p>
-</div>
-                                                                                      
 </td>  
-</table>                                                                                 
-</div>
-<br>
+</tr>
+</table>
 
-### ⚙️ &nbsp;GitHub Analytics
+---
+
+## ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/ArisGuimera">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ArisGuimera&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ArisGuimera&layout=compact&langs_count=8&theme=algolia"/>
+<a href="https://github.com/https://github.com/CarlosLanzaran">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=TU_GITHUB&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=TU_GITHUB&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
