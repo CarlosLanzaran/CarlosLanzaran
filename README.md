@@ -44,7 +44,7 @@
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </p>
 <p align="justify">
-  FilmingApp es una aplicación para Android desarrollada en Android Studio que permite gestionar información sobre películas y series. Su diseño intuitivo y atractivo facilita la navegación y visualización de títulos con sus respectivas imágenes y detalles.
+  FilmingApp es una aplicación para Android que permite gestionar información sobre películas y series. Su diseño intuitivo y atractivo facilita la navegación y visualización de títulos con sus respectivas imágenes y detalles.
 </p>
 </div>                                                                                      
 </td>
