@@ -43,19 +43,21 @@
 <a href="https://github.com/CarlosLanzaran/FilmingApp" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </p>
-<p>FilmingApp es una aplicación para Android desarrollada en Android Studio que permite gestionar información sobre películas y series. Su diseño intuitivo y atractivo facilita la navegación y visualización de títulos con sus respectivas imágenes y detalles.</p>
+<p align="justify">
+  FilmingApp es una aplicación para Android desarrollada en Android Studio que permite gestionar información sobre películas y series. Su diseño intuitivo y atractivo facilita la navegación y visualización de títulos con sus respectivas imágenes y detalles.
+</p>
 </div>                                                                                      
 </td>
 
 <td width="50%">
 <h3 align="center">Aplicación para generar personajes</h3>
 <div align="center">                                       
-<a href="https://github.com/CarlosLanzaran/MyAvatar" target="_blank"><img src="https://imgur.com/zEmoxS5.png" width="400" alt="Curso arquitectura MVVM"></a>
+<a href="https://github.com/CarlosLanzaran/MyAvatar" target="_blank"><img src="https://imgur.com/ELr6p3v.png" width="400" alt="Curso arquitectura MVVM"></a>
 <p>
 <a href="https://github.com/CarlosLanzaran/MyAvatar" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
 </p>
-<p>MyAvatar es una aplicación para Android que permite a los usuarios generar personajes de fantasía de manera aleatoria, asignándoles atributos únicos y una imagen representativa. Perfecta para juegos de rol, inspiración en escritura creativa o simplemente para divertirse creando avatares personalizados.</p>
+<p align="justify">MyAvatar es una app para Android que genera personajes de fantasía aleatorios con atributos únicos e imagen representativa. Ideal para juegos de rol, escritura creativa o simplemente para divertirse creando avatares.</p>
 </div>                                                             
 </td>  
 </tr>
